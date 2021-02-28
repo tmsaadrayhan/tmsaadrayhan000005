@@ -1,0 +1,19 @@
+td{
+    border: 1px solid lightgray;
+    padding: 0px 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid lightgray;
+    padding: 0px 10px;
+}
+#table{
+    height: 150px;
+    background-color: lightskyblue;
+}
+#form{
+    
+}
